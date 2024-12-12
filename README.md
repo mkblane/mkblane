@@ -3,8 +3,6 @@
 
 **wizcann/wizcann** is my ✨ _special_ ✨ repository because (this file) appears on my profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Corebel Engine
 - 🌱 I’m currently learning C++, WebDev
 - 👯 I’m looking to collaborate on Corebel Engine
