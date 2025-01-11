@@ -36,7 +36,7 @@ Here are some of the projects I'm working on:
 
 ### Support my work
 
-If you like my work, consider supporting me by [sponsoring me on GitHub](https://github.com/sponsors/your-github-username).
+If you like my work, consider supporting me by [sponsoring me on GitHub](https://github.com/sponsors/manugeni).
 
 ## Connect with Me
 
