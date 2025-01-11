@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manugeni&color=blue)
 
-<iframe src="https://github.com/sponsors/manugeni/button" title="Sponsor manugeni" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 
 ## About Me
 
@@ -33,6 +33,10 @@ Here are some of the projects I'm working on:
 ## GitHub Stats
 
 ![manugeni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manugeni&show_icons=true&theme=radical)
+
+### Support my work
+
+If you like my work, consider supporting me by [sponsoring me on GitHub](https://github.com/sponsors/your-github-username).
 
 ## Connect with Me
 
