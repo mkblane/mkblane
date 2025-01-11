@@ -36,7 +36,3 @@ Here are some of the projects I'm working on:
 
 - [Twitter](https://x.com/manugeni)
 - [YouTube](https://youtube.com/@manugeni)
-
-<div align="center">
-  <img src="https://via.placeholder.com/1000x150/ff7f50/333333?text=+" alt="Gradient" style="width:100%;">
-</div>
