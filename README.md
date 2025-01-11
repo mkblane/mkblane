@@ -28,7 +28,7 @@ Here are some of the technologies and tools I work with:
 Here are some of the projects I'm working on:
 
 - [CorebellEngine](https://github.com/manugeni/CorebellEngine) - A powerful and versatile game engine I'm developing.
-- [GitHub Pages Site](https://manugeni.is-.dev) - A website that will have multiple tools and features.
+- [Website](https://manugeni.is-.dev) - A website that will have multiple tools and features.
 
 ## GitHub Stats
 
