@@ -30,7 +30,7 @@ Here are some of the projects I'm working on:
 - [CorebellEngine](https://github.com/manugeni/CorebellEngine) - A powerful and versatile game engine I'm developing.
 - [Website](https://manugeni.is-a.dev) - A website that will have multiple tools and features.
 
-## GitHub Stats
+## Stats
 
 ![manugeni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manugeni&show_icons=true&theme=radical)
 
@@ -40,5 +40,4 @@ If you like my work, consider supporting me by [sponsoring me on GitHub](https:/
 
 ## Connect with Me
 
-- [Twitter](https://x.com/manugeni)
-- [YouTube](https://youtube.com/@manugeni)
+- [All links](https://linktr.ee/manugeni)
