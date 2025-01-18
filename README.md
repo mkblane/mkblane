@@ -10,7 +10,7 @@ I'm a passionate developer with a keen interest in web technologies. I love expe
 
 - 🌱 I’m currently learning **Web Technologies**
 - 🚀 I’m currently developing the [**CorebellEngine**](https://github.com/manugeni/CorebellEngine)
-- 🌐 I’m upgrading my [Website](https://manugeni.github.io) to a **multi-tool site**
+- 🌐 I’m upgrading my [Website](https://manugeni.is-a.dev) to a **multi-tool site**
 - 💬 Ask me about **web development and game engines**
 - 📫 How to reach me: **[rendaniman@outlook.com](mailto:rendaniman@outlook.com)**
 - ⚡ Fun fact: I love experimenting with new technologies and frameworks!
@@ -28,7 +28,7 @@ Here are some of the technologies and tools I work with:
 Here are some of the projects I'm working on:
 
 - [CorebellEngine](https://github.com/manugeni/CorebellEngine) - A powerful and versatile game engine I'm developing.
-- [Website](https://manugeni.is-.dev) - A website that will have multiple tools and features.
+- [Website](https://manugeni.is-a.dev) - A website that will have multiple tools and features.
 
 ## GitHub Stats
 
