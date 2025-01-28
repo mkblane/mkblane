@@ -4,7 +4,7 @@
 
 ## Blog
 
-- [My blog](https://manugen.is-a.dev/pages/blog/)
+- [My blog](https://manugeni.is-a.dev/pages/blog/)
 
 ## About Me
 
