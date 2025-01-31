@@ -1,13 +1,10 @@
 # Hello, I'm Rendani! 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=manugeni&color=blue)
 
 ## Blog
-
 - [My blog](https://manugeni.is-a.dev/pages/blog/)
 
 ## About Me
-
 I'm a passionate developer with a keen interest in web technologies. I love experimenting with new technologies and continuously learning new things.
 
 - 🌱 I’m currently learning **Web Technologies**
@@ -25,20 +22,16 @@ Here are some of the technologies and tools I work with:
 - **Tools & Platforms**: Git, GitHub, Visual Studio Code
 
 ## Projects
-
 Here are some of the projects I'm working on:
 
 - [Corebell Engine](https://manugeni.is-a.dev/pages/apps/corebell-engine) - A powerful and versatile game engine I'm developing.
 - [The Multi-Tool website](https://manugeni.is-a.dev) - A website that will have multiple tools and features.
 
 ## Stats
-
-![manugeni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manugeni&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=manugeni&show_icons=true&theme=radical)
 
 ### Support my work
-
 If you like my work, consider supporting me by [sponsoring me on GitHub](https://github.com/sponsors/manugeni).
 
 ## Connect with Me
-
-- [All links](https://linktr.ee/manugeni)
+- [Linktree](https://linktr.ee/manugeni)
