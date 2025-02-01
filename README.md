@@ -1,4 +1,4 @@
-# Hello, I'm Rendani! 👋
+# Hello, I'm Rendani! 👋 founder - (@RidiCode)
 ![Profile Views](https://komarev.com/ghpvc/?username=manugeni&color=blue)
 
 ## Blog
