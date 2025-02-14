@@ -1,6 +1,6 @@
 ![Welcome Banner](https://github.com/manugeni.png)
 
-# 👑 Hey, I'm Rendani aka Manugeni 🚀
+# 👑 Hey, I'm Rendani aka @manugeni 🚀
 
 ## 💻 Full-Stack Dev | 🎮 Game Enthusiast | 🔥 Tech Explorer
 
