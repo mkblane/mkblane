@@ -6,7 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/manugeni?style=social)](https://github.com/manugeni?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=manugeni&color=blue)](https://github.com/manugeni)
-[![Website](https://img.shields.io/badge/Website-manugeni.is-a.dev-blue?style=flat-square&logo=google-chrome)](https://manugeni.is-a.dev/)
 
 ---
 
