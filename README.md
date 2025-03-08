@@ -1,49 +1,59 @@
-# 👑 Hey, I'm Rendani 🚀
+# Hi there, I'm Rendani (@manugeni) 👋
 
-## 💻 Full-Stack Dev | 🎮 Game Enthusiast | 🔥 Tech Explorer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/manugeni?style=social)](https://github.com/manugeni?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=manugeni&color=blue)](https://github.com/manugeni)
+## About Me 👨‍💻
+
+- 🚀 I'm passionate about coding and building amazing software
+- 🌱 Currently exploring new technologies and expanding my skill set
+- 👯 Open to collaborating on interesting open source projects
+- 💡 Love turning ideas into reality through code
+- 🌍 Based in the digital world, coding across time zones
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manugeni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manugeni&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 🌟 Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=manugeni&theme=tokyo-night)
+
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manugeni&theme=tokyonight" alt="manugeni's streak"/>
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/manugeni)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/callmerendani)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
+  Last updated: 2025-03-08
+  <br>
+  <img src="https://komarev.com/ghpvs/?username=manugeni&color=blueviolet" alt="Profile Views" />
+</div>
 
-**Languages:**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  
-
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)  
-
----
-
-### 🚀 Projects & Contributions
-- 🎮 **[Corebell Engine](https://manugeni.is-a.dev/pages/apps/corebell-engine)** - My custom game engine for innovative game dev
-- 🌍 **[The Multi-Tool Website](https://manugeni.is-a.dev/)** - A dynamic hub for multiple tools
-
----
-
-### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manugeni&theme=radical)](https://git.io/streak-stats)  
-![Manugeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=manugeni&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manugeni&layout=compact&theme=radical)  
-
----
-
-### 🌐 Connect with Me
-🔗 [Website](https://manugeni.is-a.dev/)  
-📌 [Linktree](https://linktr.ee/callmerendani)  
-📧 [Email](mailto:rendaniman@outlook.com)  
-💼 [GitHub](https://github.com/manugeni)  
-
----
-
-🔥 *Keep coding, keep creating, and let's build the future together!* 🚀
+<!--
+Fun fact: This README was last updated at 15:24:29 UTC on 2025-03-08! 
+-->
