@@ -83,8 +83,5 @@ const rendani = {
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  
-  ![Profile Views](https://komarev.com/ghpvs/?username=mkblane&color=blueviolet)
-  
-  <sub>Last updated: 2024-03-13 • Generated with ❤️ by Rendani</sub>
+
 </div>
