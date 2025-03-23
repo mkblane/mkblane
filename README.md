@@ -81,13 +81,10 @@ const rendani = {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/callmerendani)
 
 </div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   
-  ![Profile Views](https://komarev.com/ghpvs/?username=manugeni&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvs/?username=mkblane&color=blueviolet)
   
   <sub>Last updated: 2024-03-13 • Generated with ❤️ by Rendani</sub>
 </div>
