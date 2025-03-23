@@ -54,7 +54,7 @@
 
 [![Vivid Engine](https://github-readme-stats.vercel.app/api/pin/?username=mkblane&repo=vivid-engine&theme=radical&hide_border=true)](https://github.com/mk/vivid-engine)
 [![Xperience](https://github-readme-stats.vercel.app/api/pin/?username=mkblane&repo=xperience-app&theme=radical&hide_border=true)](https://github.com/mkblane/xperience-app)
-[![Vivid Engine](https://github-readme-stats.vercel.app/api/pin/?username=mkblane&repo=Paradox Chess&theme=radical&hide_border=true)](https://github.com/mkblane/paradox-chess)
+[![Vivid Engine](https://github-readme-stats.vercel.app/api/pin/?username=mkblane&repo=paradox-chess&theme=radical&hide_border=true)](https://github.com/mkblane/paradox-chess)
 
 </div>
 
