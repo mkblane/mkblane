@@ -8,7 +8,7 @@
 
 ## 🎯 Current Focus
 
-- 🔮 Developing [Vivid Engine](https://github.com/manugeni/vivid-engine) - A modern WebGL 3D engine
+- 🔮 Developing [Vivid Engine](https://github.com/mkblane/vivid-engine) - A modern WebGL 3D engine
 - 🌱 Exploring Computer Graphics and Game Development
 - 🚀 Contributing to open-source projects
 - 📚 Learning Advanced Graphics Programming
@@ -40,19 +40,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manugeni&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manugeni&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mkblane&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkblane&theme=radical&hide_border=true" width="400" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manugeni&theme=radical&hide_border=true&layout=compact" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkblane&theme=radical&hide_border=true&layout=compact" width="400" />
 </div>
 
 ## 🎨 Featured Projects
 
 <div align="center">
 
-[![Vivid Engine](https://github-readme-stats.vercel.app/api/pin/?username=manugeni&repo=vivid-engine&theme=radical&hide_border=true)](https://github.com/manugeni/vivid-engine)
+[![Vivid Engine](https://github-readme-stats.vercel.app/api/pin/?username=mkblane&repo=vivid-engine&theme=radical&hide_border=true)](https://github.com/mk/vivid-engine)
+[![Xperience](https://github-readme-stats.vercel.app/api/pin/?username=mkblane&repo=xperience-app&theme=radical&hide_border=true)](https://github.com/mkblane/xperience-app)
+[![Vivid Engine](https://github-readme-stats.vercel.app/api/pin/?username=mkblane&repo=Paradox Chess&theme=radical&hide_border=true)](https://github.com/mkblane/paradox-chess)
 
 </div>
 
